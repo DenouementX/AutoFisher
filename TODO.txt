@@ -1,4 +1,4 @@
 1) Rain interferes with bobber detection
 2) Make GUI
-3) Microadjustments to calculations
+3) Micro-adjustments to calculations
 4) Instead of closing program after failing, keep command prompt open
